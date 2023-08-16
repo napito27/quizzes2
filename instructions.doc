@@ -1,0 +1,77 @@
+
+HTML & CSS
+Javascript
+React
+Bienvenidos al Quiz de Javascript!
+Sobre el Quiz
+Este quiz es sobre todos los temas que hemos visto hasta ahora y un poco mas ;)
+
+Nota: Algunas preguntas tienen temas que hemos visto poco o nulo. Quiero que aprendan a investigar y saquen el quiz! esto es parte de ser ingenieros!
+Crea codigo para las respuestas en tu entorno local y usa tu editor: VisualStudioCode.
+Crea un proyecto llamado: "quizzes". - En las proximas semanas vendran mas quizzes.
+Crea un branch llamado: "html-css-quiz"
+Una vez terminado el quiz, sube tu codigo a tu cuenta de github.com y crea un Pull Request
+Enviaselo a tu lead.
+1. Crea una estructura HTML con header, main content, and footer.
+Comentario: El header, main, y footer deben estar claramente separados y tomar todo el ancho del view.
+
+2. Diseña un botón con esquinas redondeadas y un efecto de sombra al pasar el cursor.
+Comentario: El botón debe parecer elevado cuando se pasa el cursor sobre él, dando un efecto tridimensional.
+
+Pista: Ver Efecto de Sombra
+
+3. Crea una barra de navegación con cuatro elementos: Inicio, Acerca de, Servicios, Contacto.
+Comentario: Los elementos de navegación deben estar en línea (horizontal) y no como una lista.
+
+4. Diseña un diseño de dos columnas donde la columna izquierda ocupe el 30% del ancho y la derecha ocupe el 70%.
+Comentario: Asegúrate de que las columnas estén una al lado de la otra sin ningún espacio.
+
+5. Estiliza un párrafo con un interlineado de 1.5, color de texto #336699 y un tamaño de fuente de 16px.
+Comentario: El texto debe estar espaciado de manera cómoda y el color debe ser un tono medio de azul.
+
+6. Diseña un campo de entrada de texto con un marcador de posición que diga "Ingresa tu nombre".
+Comentario: El campo de entrada debe tener una clara distinción del fondo y mostrar el texto del marcador de posición débilmente.
+
+7. Crea una animación CSS donde un círculo expanda su tamaño al pasar el cursor sobre él.
+Comentario: El círculo debe aumentar su tamaño suavemente cuando el ratón esté sobre él.
+
+8. Diseña un elemento de bloque de cita con un color de borde izquierdo de #FF4500 y un relleno de 15px.
+Comentario: El borde izquierdo debe ser más grueso y destacar, dando énfasis al texto citado.
+
+9. Estiliza una lista desordenada para que sus viñetas aparezcan como cuadrados y con un color de #228B22.
+Comentario: Los elementos de la lista deben tener cuadrados verdes como viñetas en lugar de los círculos habituales.
+
+10. Crea una imagen adaptable que ocupe el 100% de ancho en pantallas móviles y el 50% en pantallas de escritorio.
+Comentario: La imagen debe adaptar su tamaño según el ancho de la pantalla.
+
+11. Diseña un pie de página fijo que permanezca en la parte inferior de la vista.
+Comentario: Incluso al desplazar el contenido, el pie de página debe permanecer en la parte inferior de la pantalla.
+
+12. Crea una superposición con CSS que cubra toda la pantalla con un color de fondo rgba(0,0,0,0.7).
+Comentario: La superposición debe hacer que el contenido subyacente sea ligeramente visible, creando un efecto de atenuación.
+
+13. Diseña un menú desplegable que muestre una lista de cinco elementos cuando se hace clic en un botón.
+Comentario: El menú desplegable no debe ser visible de forma predeterminada, sino que debe aparecer debajo del botón cuando se activa.
+
+14. Estiliza una tabla con colores de fila alternados: #F5F5F5 para filas pares y #FFFFFF para filas impares.
+Comentario: Esto debería dar un efecto de rayas a la tabla, facilitando su lectura.
+
+15. Crea una herramienta emergente que aparezca encima de un elemento al pasar el cursor sobre él.
+Comentario: La herramienta emergente debe mostrar un mensaje breve y posicionarse directamente encima del elemento al que se refiere.
+
+16. Diseña una barra de progreso que esté llena al 70% con un color de #4CAF50.
+Comentario: La barra de progreso debe representar visualmente una tasa de finalización
+
+17. Estiliza un encabezado con una sombra de texto que le dé un efecto tridimensional.
+Comentario: El encabezado debe parecer elevado o en relieve debido a la sombra.
+
+18. Crea una línea horizontal (hr) que tenga un color degradado que va desde #FF5733 hasta #FFC300.
+Comentario: La línea debe mezclarse suavemente entre los dos colores.
+
+19. Diseña una tarjeta con una imagen en la parte superior, un título debajo de ella y una breve descripción en la parte inferior.
+Comentario: Todos los elementos de la tarjeta deben estar bien alineados y separados claramente.
+
+20. Crea una disposición de cuadrícula CSS de 3 columnas y 2 filas con un espacio de 20px entre cada celda.
+Comentario: La cuadrícula debe organizar el contenido de manera ordenada en las filas y columnas especificadas con el espacio definido.
+
+CodigoIngeniero © 2023. All Rights Reserved.
